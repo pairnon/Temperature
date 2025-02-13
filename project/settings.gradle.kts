@@ -8,4 +8,4 @@
  */
 
 rootProject.name = "Temperature"
-include("app")
+// include("app")

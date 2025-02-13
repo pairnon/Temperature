@@ -1,0 +1,7 @@
+name: Temperature
+version: 1.0.0
+main: temperature.Main
+description: Temperature plugin
+author: pairnon
+website: https://github.com/pairnon/Temperature
+api-version: '1.21'

@@ -1,4 +1,4 @@
-package test;
+package temperature;
 
 import org.bukkit.Bukkit;
 import org.bukkit.event.EventHandler;
@@ -18,6 +18,6 @@ public class Main extends JavaPlugin implements Listener {
 
     @EventHandler
     public void onPlayerJoin(PlayerJoinEvent event) {
-        event.getPlayer().sendMessage(Component.text("Hello, " + event.getPlayer().getName() + "! " + "This is a template plugin!"));
+        event.getPlayer().sendMessage(Component.text("Hello, " + event.getPlayer().getName() + "! " + "This is the Temperature plugin!"));
     }
 }

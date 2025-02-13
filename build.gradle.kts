@@ -41,7 +41,7 @@ java {
 
 application {
     // Define the main class for the application.
-    mainClass.set("test.Main")
+    mainClass.set("temperature.Main")
 }
 
 tasks.named<Test>("test") {

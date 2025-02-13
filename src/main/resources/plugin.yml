@@ -1,7 +1,7 @@
-name: Test
+name: Temperature
 version: 1.0.0
-main: test.Main
-description: Plugin template
+main: temperature.Main
+description: Temperature plugin
 author: pairnon
-website: https://github.com/pairnon/JavaPluginTemplate
+website: https://github.com/pairnon/Temperature
 api-version: '1.21'

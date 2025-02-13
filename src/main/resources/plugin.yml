@@ -1,0 +1,7 @@
+name: Test
+version: 1.0.0
+main: test.Main
+description: Plugin template
+author: pairnon
+website: https://github.com/pairnon/JavaPluginTemplate
+api-version: '1.21'
